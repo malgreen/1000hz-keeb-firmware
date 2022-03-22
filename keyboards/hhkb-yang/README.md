@@ -5,7 +5,7 @@ Credits to [u/Kanru](https://www.reddit.com/user/kanru/) for creating the [QMK p
 
 *Notice*: The default layout for this firmware is slightly different: 
 * the top right key is now ***delete***, and ***tilde*** is moved to the function layer at the ***escape*** key
-* the ***alt*** and ***OS*** button are swappted on the keyboard.
+* the ***alt*** and ***OS*** button are swapped on the keyboard.
 
 *Notice 2*: This refresh rate reduces battery life, buyer beware
 #
