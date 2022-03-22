@@ -6,8 +6,8 @@ Some default layouts are different than usual, as this started for personal use
 
 #
 ## Supported keyboards
-- [BM65 ISO](keyboards/bm65-iso/README.md)
-- [HHKB Yang BLE Module](keyboards/hhkb-yang/README.md)
+- [BM65 ISO](keyboards/bm65-iso/)
+- [HHKB Yang BLE Module](keyboards/hhkb-yang/)
 - KBD67 ISO
 
 #
