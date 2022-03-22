@@ -1,22 +1,16 @@
 # 1000hz-keeb-firmware
-Firmware for various keyboards/PCBs supporting both 1000hz refresh rate and VIA configurator
+Pre-compiled QMK firmware for various keyboards/PCBs supporting both 1000hz refresh rate and (mostly) VIA configurator
 
-*[QMK Toolbox](https://github.com/qmk/qmk_toolbox) required*
-#
-### Supported keyboards
-- BM65 ISO
+Some default layouts are different than usual, as this started for personal use
+
 
 #
-### How-to
-  - Open QMK toolbox
-  - Put keyboard in DFU mode by (different for each keyboard, can commonly be found on the keyboard/PCB product page)
-  - Load the .hex file for the keyboard included with this download
-  - Flash
-  - Done, close QMK toolbox
+## Supported keyboards
+- [BM65 ISO](keyboards/bm65-iso/README.md)
+- [HHKB Yang BLE Module](keyboards/hhkb-yang/README.md)
+- KBD67 ISO
 
-#### Optional
-If a .json file for the keyboard is included in this download, it needs to be loaded in VIA each time it is configured:
-  - Open VIA
-  - Click on design tab
-  - Load the .json included with this download
-  - Configure your keyboard
+#
+## How-to
+Follow the instructions located on the page for the keyboard
+
