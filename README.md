@@ -8,7 +8,7 @@ Some default layouts are different than usual, as this started for personal use
 ## Supported keyboards
 - [BM65 ISO](keyboards/bm65-iso/)
 - [HHKB Yang BLE Module](keyboards/hhkb-yang/)
-- KBD67 ISO
+- [KBD67 ISO](keyboards/kbd67-iso)
 
 #
 ## How-to
